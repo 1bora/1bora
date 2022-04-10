@@ -37,7 +37,7 @@
 ---
 
 <div id='stats' align='center'>
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hajimebusuzima96&show_icons=true&locale=en" alt="hajimebusuzima96"/></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hajimebusuzima96&show_icons=true&locale=en" alt="hajimebusuzima96"/></p>
 
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hajimebusuzima96&" alt="hajimebusuzima96" /></p>
 </div>
