@@ -267,6 +267,70 @@
                 height="40"
               />
          </a>
+         <a href="https://www.python.org" target="_blank" rel="noreferrer">
+              <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                alt="python"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+              <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                alt="react"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+              <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+                alt="sass"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+                alt="scikit_learn"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+              <img
+                src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+                alt="seaborn"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+              <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+                alt="typescript"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+              <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+                alt="vuejs"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
+              <img
+                src="https://bestofjs.org/logos/vuetify.svg"
+                alt="vuetify"
+                width="40"
+                height="40"
+              />
+         </a>
         </td>
         <td >$100</td>
       </tr>
