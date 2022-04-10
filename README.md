@@ -38,6 +38,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajimebusuzima96" alt="hajimebusuzima96" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajimebusuzima96&show_icons=true&locale=en&layout=compact" alt="hajimebusuzima96" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hajimebusuzima96&show_icons=true&locale=en" alt="hajimebusuzima96" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hajimebusuzima96&" alt="hajimebusuzima96" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/athosreis840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athosreis840" height="30" width="40" /></a>
@@ -52,8 +58,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/athos0420"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="athos0420" /></a><a href="https://ko-fi.com/athosreis0420"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="athosreis0420" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajimebusuzima96&show_icons=true&locale=en&layout=compact" alt="hajimebusuzima96" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hajimebusuzima96&show_icons=true&locale=en" alt="hajimebusuzima96" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hajimebusuzima96&" alt="hajimebusuzima96" /></p>
