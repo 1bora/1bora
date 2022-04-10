@@ -332,7 +332,7 @@
               />
          </a>
         </td>
-        <td >
+        <td width='50%'>
          <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
               <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
