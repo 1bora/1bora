@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/1dPKqD8HqzmfxEUzzZ/giphy.gif" width="200"/>
 </div> 
 
-# Hey👋, nice to see you, I'm Athos Reis
+<h1 align="center"> Hey👋, nice to see you, I'm Athos Reis</h1>
 <h3 align="center">A dedicated developer from Brazil.</h3>
 
 
