@@ -4,9 +4,8 @@
 
 
 <h1 align="center">Hey👋, nice to see you, I'm Athos Reis.</h1>
-<h3 align="center">A dedicated developer from Brazil.</h3>
+<h3 align="center">A dedicated developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Brazil.</h3>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
 <div id="badges" align="center">
