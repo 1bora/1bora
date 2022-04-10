@@ -49,8 +49,8 @@
     <tr>
       <th><h3>Languages and tools</h3></th>
       <th><h3>Learning</h3></th>
-      <tr width='50vw'>
-        <td>
+      <tr>
+        <td width='50%'>
           <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
               <img
                 src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
