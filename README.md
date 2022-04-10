@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/kfp5LYg9pNK0cjDOyM/giphy.gif" width="100"/>
+</div> 
+
+
 <h1 align="center">Hey👋, nice to see you, I'm Athos Reis.</h1>
 <h3 align="center">A dedicated developer from Amazonia in Brazil.</h3>
 
