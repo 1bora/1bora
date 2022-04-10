@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hey👋, nice to see you, I'm Athos Reis.</h1>
-<h3 align="center">A dedicated<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> developer from Brazil.</h3>
+<h3 align="center">A dedicated developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Brazil.</h3>
 
 
 
