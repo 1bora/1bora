@@ -50,13 +50,11 @@
 
 </div> 
 
-<table><tr><td valign="left" width="50%">
+<table><tr><td valign="center" width="50%">
+ESQUERDA
 
-<img src="https://github-readme-stats.vercel.app/api?username=comicshrimp&count_private=true&show_icons=true&theme=nightowl&hide_border=true&border_radius=0" align="center" style="height: 100%" /> 
-
-</td><td valign="right" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comicshrimp&count_private=true&layout=compact&langs_count=4&theme=nightowl&hide_border=true&border_radius=0" align="center" style="width: 100%" />  
+</td><td valign="center" width="50%">
+DIREITA
 
 </td></tr></table>  
 
