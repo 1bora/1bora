@@ -43,9 +43,16 @@
 <div id='stats' align='center'>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajimebusuzima96&show_icons=true&locale=en&layout=compact" alt="hajimebusuzima96" />
- </div>
+</div>
 
 ---
+
+<div id='langs' align='left'>
+  <h3 align="center">Support:</h3>
+</div>
+<div id='tools' align='right'>
+  <h3 align="center">Support:</h3>
+</div>
 
 ---
 
