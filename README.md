@@ -45,19 +45,6 @@
 
 ---
 
-<div id='langs' align='center'>
-<h3 align="center">Languages and Tools:</h3>
-
-</div> 
-
-<table><tr><td valign="center" width="50%">
-ESQUERDA
-
-</td><td valign="center" width="50%">
-DIREITA
-
-</td></tr></table>  
-
 ---
 
 
