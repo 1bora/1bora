@@ -47,8 +47,8 @@
 
 <table align='center'>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th><h3>Languages and tools</h3></th>
+    <th><h3>Learning</h3></th>
     <tr>
       <td >January</td>
       <td >$100</td>
