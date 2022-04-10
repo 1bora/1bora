@@ -49,9 +49,11 @@
 
 <div id='langs' align='left'>
   <h3 align="center">Support:</h3>
+  -asdasfasdasdsadad
 </div>
 <div id='tools' align='right'>
   <h3 align="center">Support:</h3>
+  -asdasdsadasdsadadasd
 </div>
 
 ---
