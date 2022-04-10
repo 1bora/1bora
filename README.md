@@ -6,6 +6,18 @@
 <h1 align="center">Hey👋, nice to see you, I'm Athos Reis.</h1>
 <h3 align="center">A dedicated developer from Brazil.</h3>
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hajimebusuzima96&label=Profile%20views&color=0e75b6&style=flat" alt="hajimebusuzima96" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajimebusuzima96" alt="hajimebusuzima96" /></a> </p>
