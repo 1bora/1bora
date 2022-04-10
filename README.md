@@ -46,15 +46,16 @@
 ---
 
 <div id='langs' align='center'>
-  <p>
-  <h3 align='left' >Support:</h3>
-  -asdasfasdasdsadad
-  </p>
-  <p>
-  <h3 align='right' >Support:</h3>
-  -asdasdsadasdsadadasd
-  </p>
-</div>
+<h3 align="center">Languages and Tools:</h3>
+
+</div> 
+
+<table><tr><td valign="left" width="50%">
+sdfsdfsdfdsfdsf
+</td><td valign="right" width="50%">
+dgfdgfdgfdgfdg
+
+</td></tr></table>  
 
 ---
 
