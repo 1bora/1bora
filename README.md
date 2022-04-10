@@ -332,7 +332,80 @@
               />
          </a>
         </td>
-        <td >$100</td>
+        <td >
+         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+              <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+                alt="aws"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://circleci.com" target="_blank" rel="noreferrer">
+              <img
+                src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg"
+                alt="circleci"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+              <img
+                src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+                alt="flutter"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+              <img
+                src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+                alt="gcp"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://grafana.com" target="_blank" rel="noreferrer">
+              <img
+                src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"
+                alt="grafana"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+              <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+                alt="mongodb"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+              <img
+                src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+                alt="nextjs"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+              <img
+                src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
+                alt="nuxtjs"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+              <img
+                src="https://reactnative.dev/img/header_logo.svg"
+                alt="reactnative"
+                width="40"
+                height="40"
+              />
+         </a>
+        </td>
       </tr>
       <tr>
         <td>February</td>
