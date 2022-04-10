@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hey👋, nice to see you, I'm Athos Reis.</h1>
-<h3 align="center">A dedicated developer from Amazonia in Brazil.</h3>
+<h3 align="center">A dedicated developer from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hajimebusuzima96&label=Profile%20views&color=0e75b6&style=flat" alt="hajimebusuzima96" /> </p>
 
