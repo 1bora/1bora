@@ -2,10 +2,8 @@
   <img src="https://media.giphy.com/media/1dPKqD8HqzmfxEUzzZ/giphy.gif" width="200"/>
 </div> 
 
-
-<h1 align="center">Hey👋, nice to see you, I'm Athos Reis.</h1>
-<h3 align="center">A dedicated developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Brazil.</h3>
-
+# Hey👋, nice to see you, I'm Athos Reis
+<h3 align="center">A dedicated developer from Brazil.</h3>
 
 
 <div id="badges" align="center">
