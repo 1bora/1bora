@@ -408,8 +408,8 @@
         </td>
       </tr>
       <tr>
-        <td>February</td>
-        <td>$80</td>
+        <td></td>
+        <td></td>
       </tr>
     </tr>
   <table>
