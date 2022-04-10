@@ -22,7 +22,9 @@
   
   ---
   
-  - 🔭 I’m currently working on [Website - Alpha Maiora](https://alphamaiora.com)
+  - 🔭 I’m currently working on [Website - Alpha Maiora](https://alphamaiora.com)    <a href="https://www.linkedin.com/in/athosreis77/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
   
   - 🌱 I’m currently learning **Quantitative Value, CS50 and Macroeconomics Relations.**
   
