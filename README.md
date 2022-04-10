@@ -47,7 +47,7 @@
 
 ---
 
-<div id='langs' align='center'>
+<div id='langs' align='left'>
   <h3 >Support:</h3>
   -asdasfasdasdsadad
   <h3 >Support:</h3>
