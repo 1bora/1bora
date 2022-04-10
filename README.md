@@ -83,6 +83,22 @@
                 height="40"
               />
           </a>
+          <a href="https://d3js.org/" target="_blank" rel="noreferrer">
+              <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"
+                alt="d3js"
+                width="40"
+                height="40"
+              />
+         </a>
+         <a href="https://dart.dev" target="_blank" rel="noreferrer">
+              <img
+                src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
+                alt="dart"
+                width="40"
+                height="40"
+              />
+         </a>   
         </td>
         <td >$100</td>
       </tr>
