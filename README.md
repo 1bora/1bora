@@ -50,7 +50,17 @@
       <th><h3>Languages and tools</h3></th>
       <th><h3>Learning</h3></th>
       <tr>
-        <td></td>
+        <td>
+          <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+          <img
+            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+            alt="arduino"
+            width="40"
+            height="40"
+          />
+        </a>
+            
+        </td>
         <td >$100</td>
       </tr>
       <tr>
