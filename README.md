@@ -23,7 +23,7 @@
   ---
   
   - 🔭 I’m currently working on <a href="https://alphamaiora.com">
-      <img src="https://img.shields.io/badge/?style=flat-square&logo=appveyor" alt="VueJS Badge"/>
+      <img src="https://img.shields.io/badge/LABEL-MESSAGE-COLOR?style=flat-square&logo=appveyor" alt="VueJS Badge"/>
     </a>
   
   - 🌱 I’m currently learning **Quantitative Value, CS50 and Macroeconomics Relations.**
