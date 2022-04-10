@@ -24,8 +24,6 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajimebusuzima96" alt="hajimebusuzima96" /></a> </p>
-
 - 🔭 I’m currently working on [Website - Alpha Maiora](https://alphamaiora.com)
 
 - 🌱 I’m currently learning **Quantitative Value, CS50 and Macroeconomics Relations.**
@@ -35,6 +33,10 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/athosreis77/](https://www.linkedin.com/in/athosreis77/)
 
 - ⚡ Fun fact **My first contact with programming languages ​​occurred when I was an art student 🧑‍🎨**
+
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajimebusuzima96" alt="hajimebusuzima96" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
