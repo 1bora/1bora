@@ -22,8 +22,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajimebusuzima96" alt="hajimebusuzima96" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/athosreis840" target="blank"><img src="https://img.shields.io/twitter/follow/athosreis840?logo=twitter&style=for-the-badge" alt="athosreis840" /></a> </p>
-
 - 🔭 I’m currently working on [Website - Alpha Maiora](https://alphamaiora.com)
 
 - 🌱 I’m currently learning **Quantitative Value, CS50 and Macroeconomics Relations.**
