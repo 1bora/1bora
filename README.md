@@ -67,6 +67,22 @@
                 height="40"
               />
           </a>
+          <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+              <img
+                src="https://www.chartjs.org/media/logo-title.svg"
+                alt="chartjs"
+                width="40"
+                height="40"
+              />
+          </a> 
+          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+              <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                alt="css3"
+                width="40"
+                height="40"
+              />
+          </a>
         </td>
         <td >$100</td>
       </tr>
