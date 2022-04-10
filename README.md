@@ -49,7 +49,7 @@
     <tr>
       <th><h3>Languages and tools</h3></th>
       <th><h3>Learning</h3></th>
-      <tr width='50%'>
+      <tr width='50vw'>
         <td>
           <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
               <img
