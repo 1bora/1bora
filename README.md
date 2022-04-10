@@ -45,7 +45,7 @@
 
 ---
 
-<table>
+<table align='center'>
   <tr>
     <th>Month</th>
     <th>Savings</th>
