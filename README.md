@@ -33,10 +33,10 @@
     </a>
   
   - 📄 Know about my experiences <a href="(https://www.linkedin.com/in/athosreis77/">
-      <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=flat-square&logo=vuedotjs" alt="VueJS Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=flat-square&logo=linkedin" alt="VueJS Badge"/>
     </a>
   
-  - ⚡ Fun fact **My first contact with programming languages ​​occurred when I was an art student 🧑‍🎨**
+  - ⚡ Fun fact **My first contact with programming languages ​​occurred when I was an art student 🧑‍🎨 at <a href='https://www.unifesspa.edu.br/'>Unifesspa</a>**
   
   ---
   
