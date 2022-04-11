@@ -28,11 +28,13 @@
   
   - 🌱 I’m currently learning **Quantitative Value, CS50 and Macroeconomics Relations.**
   
-  - 📫 How to reach me **athos3655@gmail.com** <a href="mailto:athos3655@gmail.com">
+  - 📫 How to reach me <a href="mailto:athos3655@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-Contact me.-red?style=flat-square&logo=gmail" alt="send-mail"/>
     </a>
   
-  - 📄 Know about my experiences [https://www.linkedin.com/in/athosreis77/](https://www.linkedin.com/in/athosreis77/)
+  - 📄 Know about my experiences <a href="(https://www.linkedin.com/in/athosreis77/">
+      <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=flat-square&logo=vuedotjs" alt="VueJS Badge"/>
+    </a>
   
   - ⚡ Fun fact **My first contact with programming languages ​​occurred when I was an art student 🧑‍🎨**
   
