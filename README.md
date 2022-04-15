@@ -428,10 +428,10 @@
   <div id='stats' align='center'>
   <img src="https://metrics.lecoq.io/hajimebusuzima96?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=www.alphamaiora.com&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FBelem" />
     <img src="https://metrics.lecoq.io/hajimebusuzima96?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FBelem"/>
-  <div id='stats' align='center'>
-  
-  
-  <h3 align="left">Support:</h3>
+   </div>
+
+  <div id='support' align='center'>
+  <h3 >Support:</h3>
   <p><a href="https://www.buymeacoffee.com/athos0420"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="athos0420" /></a><a href="https://ko-fi.com/athosreis0420"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="athosreis0420" /></a></p><br><br>
   
  </div>
