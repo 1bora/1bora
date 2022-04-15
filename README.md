@@ -42,17 +42,11 @@
   
   <div id='stats' align='center'>
     <img  src="https://github-readme-stats.vercel.app/api?username=hajimebusuzima96&show_icons=true&theme=chartreuse-dark&locale=en" alt="hajimebusuzima96"/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hajimebusuzima96&" alt="hajimebusuzima96" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hajimebusuzima96&" alt="hajimebusuzima96" />
   </div>
   <div id='stats' align='center'>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajimebusuzima96&show_icons=true&locale=en&layout=compact" alt="hajimebusuzima96" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajimebusuzima96&show_icons=true&l&theme=chartreuse-dark&ocale=en&layout=compact" alt="hajimebusuzima96" />
   </div>
   
   ---
