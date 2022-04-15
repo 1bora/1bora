@@ -47,7 +47,8 @@
   <div id='stats' align='center'>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajimebusuzima96&show_icons=true&l&theme=chartreuse-dark&ocale=en&layout=compact" alt="hajimebusuzima96" />
-![Metrics](https://metrics.lecoq.io/hajimebusuzima96?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=alphamaiora.com&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=America%2FBelem)
+    <img align="center" src="https://metrics.lecoq.io/hajimebusuzima96?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=alphamaiora.com&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=America%2FBelem" alt="alphamaiora-site-stats" />
+
 
   </div>
   
