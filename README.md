@@ -41,7 +41,7 @@
   ---
   
   <div id='stats' align='center'>
-  ![Anurag's GitHub stats]  <img  src="https://github-readme-stats.vercel.app/api?username=hajimebusuzima96&show_icons=true&locale=en" alt="hajimebusuzima96"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=hajimebusuzima96&show_icons=true&theme=aura&locale=en" alt="hajimebusuzima96"/>
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hajimebusuzima96&" alt="hajimebusuzima96" />
   </div>
   <div id='stats' align='center'>
