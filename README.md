@@ -48,8 +48,7 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajimebusuzima96&show_icons=true&l&theme=chartreuse-dark&ocale=en&layout=compact" alt="hajimebusuzima96" />
     
-  <img src="https://metrics.lecoq.io/hajimebusuzima96?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=alphamaiora.com&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=America%2FBelem" />
-    <img src="https://metrics.lecoq.io/hajimebusuzima96?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=false&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FBelem"/>
+
 
 
   </div>
@@ -426,7 +425,11 @@
   <table>
     
   ---
-  
+  <div id='stats' align='center'>
+  <img src="https://metrics.lecoq.io/hajimebusuzima96?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=alphamaiora.com&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=America%2FBelem" />
+    <img src="https://metrics.lecoq.io/hajimebusuzima96?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=false&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FBelem"/>
+  </div>
+  <div id='stats' align='center'>
   
   
   <h3 align="left">Support:</h3>
