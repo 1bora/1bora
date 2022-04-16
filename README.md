@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://raw.githubusercontent.com/hajimebusuzima96/hajimebusuzima96/main/2924502035%20(4).gif" width="100" />
+    <img src="https://raw.githubusercontent.com/hajimebusuzima96/hajimebusuzima96/main/2924502035%20(4).gif" width="150" />
   </div> 
   
   <h1 align="center"> Hi👋, I am Athos Reis</h1>
