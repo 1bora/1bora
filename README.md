@@ -432,9 +432,9 @@
 
   <div id='support' align='center'>
   <h3 >Thanks in advance! Any help would be greatly appreciated. 
-      
+    <img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif" width="50" />
   </h3>
-  <img src="https://c.tenor.com/PZDrwfL4BG8AAAAC/zach-galifianakis-smiles.gif" width="20" />
+
   <p><a href="https://www.buymeacoffee.com/athos0420"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="athos0420" /></a><a href="https://ko-fi.com/athosreis0420"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="athosreis0420" /></a></p><br><br>
   
  </div>
