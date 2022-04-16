@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://raw.githubusercontent.com/hajimebusuzima96/hajimebusuzima96/main/2924502035%20(4).gif" width="150" />
+    <img src="https://raw.githubusercontent.com/hajimebusuzima96/hajimebusuzima96/main/2924502035%20(4).gif" width="177" />
   </div> 
   
   <h1 align="center"> Hi👋, I am Athos Reis</h1>
@@ -431,7 +431,7 @@
    </div>
 
   <div id='support' align='center'>
-  <h3 >Thanks in advance! Any help would be greatly appreciated. 
+  <h3 >Consider support, any help would be greatly appreciated. <Cheers!!/>. 
     <img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif" width="77" />
   </h3>
 
