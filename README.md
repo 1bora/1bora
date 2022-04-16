@@ -431,7 +431,9 @@
    </div>
 
   <div id='support' align='center'>
-  <h3 >Thanks in advance! Any help would be greatly appreciated. <img src="https://c.tenor.com/PZDrwfL4BG8AAAAC/zach-galifianakis-smiles.gif"width="27"/></h3>
+  <h3 >Thanks in advance! Any help would be greatly appreciated. 
+      <img src="https://c.tenor.com/PZDrwfL4BG8AAAAC/zach-galifianakis-smiles.gif" width="27"/>
+  </h3>
   <p><a href="https://www.buymeacoffee.com/athos0420"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="athos0420" /></a><a href="https://ko-fi.com/athosreis0420"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="athosreis0420" /></a></p><br><br>
   
  </div>
