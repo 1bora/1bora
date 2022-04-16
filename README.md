@@ -431,7 +431,7 @@
    </div>
 
   <div id='support' align='center'>
-  <h3 >Consider support, any help would be greatly appreciated. <Cheers!!/>. 
+  <h3 >Consider support, any help would be greatly appreciated. Cheers!!. 
     <img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif" width="77" />
   </h3>
 
