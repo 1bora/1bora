@@ -44,12 +44,9 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=hajimebusuzima96&show_icons=true&theme=chartreuse-dark&locale=en" alt="hajimebusuzima96"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=hajimebusuzima96&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&currStreakNum=7023DD&fire=7023DD" alt="hajimebusuzima96" />
   </div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajimebusuzima96&show_icons=true&l&theme=chartreuse-dark&ocale=en&layout=compact" alt="hajimebusuzima96" />
+
   <div id='stats' align='center'>
-  
-
-    
-
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajimebusuzima96&show_icons=true&l&theme=chartreuse-dark&ocale=en&layout=compact" alt="hajimebusuzima96" />
 
 
   </div>
