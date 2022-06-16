@@ -46,7 +46,7 @@
   </div>
 
   <div id='stats' align='center'>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajimebusuzima96&show_icons=true&l&theme=chartreuse_dark&ocale=en&layout=compact" alt="hajimebusuzima96" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajimebusuzima96&show_icons=true&l&theme=gothan&langs_count=10&ocale=en&layout=compact" alt="hajimebusuzima96" />
   </div>
   
   ---
