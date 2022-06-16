@@ -46,9 +46,9 @@
   </div>
 
   <div id='stats' align='center'>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajimebusuzima96&show_icons=true&l&theme=chartreuse-dark&ocale=en&layout=compact" alt="hajimebusuzima96" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajimebusuzima96&show_icons=true&l&theme=chartreuse-                 dark&ocale=en&layout=compact" alt="hajimebusuzima96" />
 
-
+            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajimebusuzima96&layout=compact)]
   </div>
   
   ---
