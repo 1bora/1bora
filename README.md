@@ -22,8 +22,8 @@
   
   ---
   
-  - 🔭 I’m currently working on <a href="https://alphamaiora.com">
-      <img src="https://img.shields.io/badge/WebSite-Alpha Maiora-008a3d?style=flat-square&logo=vuedotjs" alt="VueJS Badge"/>
+  - 🔭 I’m currently working on <a href="">
+      <img src="https://img.shields.io/badge/WebSite-008a3d?style=flat-square&logo=vuedotjs" alt="VueJS Badge"/>
     </a>
   
   - 🌱 I’m currently learning **Quantitative Value, CS50 and Macroeconomics Relations.**
