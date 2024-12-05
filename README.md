@@ -3,7 +3,7 @@
   </div> 
   
   <h1 align="center"> Hi👋, I am Athos Reis</h1>
-  <h3 align="center">A dedicated developer from Brazil.</h3>
+  <h3 align="center">I'm from Brazil.</h3>
   
   
   <div id="badges" align="center">
