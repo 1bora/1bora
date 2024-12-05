@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://raw.githubusercontent.com/hajimebusuzima96/hajimebusuzima96/main/2924502035%20(4).gif" />
+    <img src="https://raw.githubusercontent.com/1bora/1bora/main/2924502035%20(4).gif" />
   </div> 
   
   <h1 align="center"> Hi👋, I am Athos Reis</h1>
@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/athosreis77/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/1_puto/">
+    <a href="https://www.instagram.com/">
       <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="https://twitter.com/AthosReis840">
@@ -18,7 +18,7 @@
     </a>
   </div>
   
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=hajimebusuzima96&label=Profile%20views&color=0e75b6&style=flat" alt="hajimebusuzima96" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=1bora&label=Profile%20views&color=0e75b6&style=flat" alt="1bora" /> </p>
   
   ---
   
@@ -41,12 +41,12 @@
   ---
   
   <div id='stats' align='center'>
-    <img  src="https://github-readme-stats.vercel.app/api?username=hajimebusuzima96&show_icons=true&theme=chartreuse-dark&locale=en" alt="hajimebusuzima96"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=hajimebusuzima96&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&currStreakNum=7023DD&fire=7023DD" alt="hajimebusuzima96" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=1bora&show_icons=true&theme=chartreuse-dark&locale=en" alt="1bora"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=1bora&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&currStreakNum=7023DD&fire=7023DD" alt="1bora" />
   </div>
 
   <div id='stats' align='center'>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajimebusuzima96&show_icons=true&l&theme=aura&langs_count=10&ocale=en&layout=compact" alt="hajimebusuzima96" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1bora&show_icons=true&l&theme=aura&langs_count=10&ocale=en&layout=compact" alt="1bora" />
   </div>
   
   ---
