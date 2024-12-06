@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/WebSite-008a3d?style=flat-square&logo=vuedotjs" alt="VueJS Badge"/>
     </a>
   
-  - 🌱 I’m currently learning **Web Programming **
+  - 🌱 I’m currently learning **Web Programming**
   
   - 📫 How to reach me <a href="mailto:athos3655@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-Contact me.-red?style=flat-square&logo=gmail" alt="send-mail"/>
